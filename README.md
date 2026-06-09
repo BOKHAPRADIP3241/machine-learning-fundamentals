@@ -5,7 +5,7 @@
 
 > A beginner-friendly Machine Learning repository covering Regression, Classification, K-Means Clustering, and Model Evaluation Metrics using Python.
 
-### Topics/Tags for GitHub
+### Topics
 
 ```text
 machine-learning
